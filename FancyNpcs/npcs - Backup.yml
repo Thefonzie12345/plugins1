@@ -1,0 +1,47 @@
+npcs:
+  f632b8f6-7584-4d45-9e56-3c1d490fe8a1:
+    name: rtp
+    creator: 7c2d9979-4251-4823-b6be-4081a6df3a24
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: spawn
+      x: 1432.465994327419
+      y: 115.0
+      z: -267.5457824371953
+      yaw: -2.729823
+      pitch: 89.931786
+    showInTab: false
+    spawnEntity: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: true
+    message: ''
+    skin:
+      identifier: 2ec5aad9-7ac1-4711-b7b3-74429f922d10
+      value: ewogICJ0aW1lc3RhbXAiIDogMTY5ODc3MjgwMzA0MiwKICAicHJvZmlsZUlkIiA6ICIyZWM1YWFkOTdhYzE0NzExYjdiMzc0NDI5ZjkyMmQxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbGFuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJkYjFlNzg5YzEyYmQ1Zjc0NTAyMGMzZWM0ZGYxZjgwYmY2ZGViMTQxYjk3OTE1MDJkZTFjNmRlOTIwNjZlIgogICAgfQogIH0KfQ==
+      signature: pnQ7si7itiwLOm1EpM3CZ/ny1OYgnaSAn+MQQE/onHL9M27MSfruWd2B9yX14VX9HkhLmDRnheJLbL3T83P7MikgiS8g63AsRi0rh8BAA3VrIdVyvHhmCOL1wW4K+9gcBi/Ehhn3bBTaoeIEn67lfiXLJZU5Ui5MHB4H2MEmGVNu1G4x8pvNQTEtzW4LcffboonZ854P3AuI47J8jc6Vq3fNbdXxsWCw0/IzF2CxBn7jWNJYv+T3SRVGW6BolS/I9LXJZZwwGfnWvbwFDwa8lx6z4Q7m5CcwoW/a7qTNOWw3wEpnrRuoAs1BhjHQlsR8kXLkUqSvrwTqK6V/tAX5GoNYGieqkkzSl0JxmJg01vNG2In4w/p5v13SlWxnbCeOYuD9XFYFqKz9jp7+F43BwAdi0483Js7Xjdy/STKZxaKnQqgEc0/tvdmpWida7vQtxH8mpuz09VfFVErFv6t3UnHEeR7Sk0DU5uSVUeZbyRnOfnoDclB/9h5urDKQF0dCZnDmzIM0qzvd8HwKwjhvOFmUTBqGRdOpkjMWqnTsw0MSl0IVXkbsDM7hpv/LOnxwILBzLInyG5Ldm4HSIRbJO7yErqFFjb9QX7vMi6jjObtPoCat6aPNrPDhoAKReGFAxZp7I5dDR/uf3yIXDkUBykyPmHgaeYNZpKvm06Ru3jU=
+    playerCommand: rtp world world
+  4188fae3-7b9f-4d5b-a4d0-350be2b7d834:
+    name: shop
+    creator: 7c2d9979-4251-4823-b6be-4081a6df3a24
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: spawn
+      x: 1436.4771164674562
+      y: 115.0
+      z: -263.53508007629
+      yaw: 89.91
+      pitch: 0.021666884
+    showInTab: false
+    spawnEntity: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: true
+    message: Opening shop...
+    skin:
+      identifier: 4c984420-1577-4a46-893c-63a99b23ebf2
+      value: ewogICJ0aW1lc3RhbXAiIDogMTY5ODc3Mjg0NzIyNywKICAicHJvZmlsZUlkIiA6ICI0Yzk4NDQyMDE1Nzc0YTQ2ODkzYzYzYTk5YjIzZWJmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWFsZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDEzNTM4NDM0YjY0OGM5MDI0Y2Q0MjNmNDEzZDg1ODIzYTQwOTgyYjIwYTAzOWU1NzZkZmIyM2EzZTJkZTViYiIKICAgIH0KICB9Cn0=
+      signature: ZGqaKjWsqzBUCUms19SBbbpKS2FoPvC4MA4S9vOoEk+Yfw1/fmlffnLyCtIsI+rF8ZetXp8QBEH6lEXXP+6xVXYBhNiLwjdoVhkYHXkzmsLi+Jy2uHj3dbgOBq4ogJ4awE6Kciy3Xx+uLT7ZR4zfTp4uaUtXAKm2uEmWEDO6HI2tducdgR/jHTFDYXljTh6S9MLQX0p+4vnPTiGGx3fzGG7okMM00r42/TNl0iZKLXclaoybLCH2wWnXZsdhFkpFECMd82Q/wiKPaGi/XKtd+UM9oG3DHKEQs5SvJNZtDGqw5UHBMkjEXIKaTfNsZFlgiGzKh9sI9BsdHxpc1yEyUTe9kmsuXvd2I8tBmA5d/k1+HY7Eq1/IsgdczWqpK9X28bHRLOY2kC0ynuZpUghYLK7qXKFWhL6E3bytXgRBJq4YbC4DoFabkDzZ1d+Xg9sbeAcX3bR7OD9yDLJ6U3ppZEkTa0S4dt0AeeeoFvhSNyux138I0DXlCOf0fStd8wgl3lR+Nrc4cCRcMAdNqcP559yDVANQkLHjZpuYA4nNmUm3L28IAvbJovgkttisDea+jxqAVLZ18zfh1wu++54wszdzGAWldXj8SEY8MjLCxIrUsRJXXt7GFFfFMD8Ztr5x7ScNpVj5eq9u4hngpE8so/YsONW4Py4hwqIwxJgpBQU=
+    playerCommand: shop

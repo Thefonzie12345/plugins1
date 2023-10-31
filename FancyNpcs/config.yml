@@ -1,0 +1,11 @@
+mute_version_notification: false
+enable_autosave: true
+autosave_interval: 15
+turn_to_player_distance: 5
+visibility_distance: 20
+blocked_commands:
+- op
+- ban
+max-npcs:
+- fancynpcs.max-npcs.5: 5
+- fancynpcs.max-npcs.10: 10
