@@ -1,7 +1,7 @@
 # This is the server motd.
 Server-MOTD:
   Line-1: '                &6&lFonzeMC Survival'
-  Line-2: '&a 1.19.4-1.20.2 supported &3| &5Discord.gg/FonzeMC'
+  Line-2: '&a 1.19.4-1.20.2 supported &3| &5Discord.gg/Thefonze'
 
 # The motd of the player when they join in.
 JoinGame-MOTD:
